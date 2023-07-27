@@ -9,7 +9,7 @@
 ## You have to follow following steps to run this project
 
 ### 1. Run this command on your terminal 
-       1. git clone https://github.com/rahulmis/Django-Qr-Generator.git
+       1. git clone https://github.com/Ansarimajid/Django-QR.git
        2. cd Django-Qr-Generator
 ### 2. Create virtual enviroment to install required libraries 
        1. pip install virtualenv
