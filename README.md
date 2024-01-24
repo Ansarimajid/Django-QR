@@ -10,7 +10,7 @@
 
 ### 1. Run this command on your terminal 
        1. git clone https://github.com/Ansarimajid/Django-QR.git
-       2. cd Django-Qr-Generator
+       2. cd Django-QR
 ### 2. Create virtual enviroment to install required libraries 
        1. pip install virtualenv
        2. virtualenv venv
@@ -18,7 +18,7 @@
 ### 3. Now Run the project
        1. python manage.py makemigrations
        2. python manage.py migrate
-       3. python manage.py create superuser
+       3. python manage.py createsuperuser
        4. python manage.py runserver
 ### 4. Open Link And Access Admin Page
 open this link on your browser `http://127.0.0.1:8000/`
