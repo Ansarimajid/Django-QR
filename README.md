@@ -1,3 +1,4 @@
+![Header Image](image_path)
 # Django-Qr-Generator
 
 Django-Qr-Generator is a Django project that allows you to generate QR code images and download them.
